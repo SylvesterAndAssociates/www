@@ -1,0 +1,23 @@
+
+/*Page related styles for you to view*/
+#mycustomscroll {
+/* Typical fixed height and fixed width example */
+width: 555px;
+height: 460px;
+margin-top:25px;
+padding-right:20px;
+float:left;
+overflow: auto;
+/* IE overflow fix, position must be relative or absolute*/
+
+}
+
+.fixedwidth {
+/* a wide div is used for creating horizontal scrollbars for demonstration purposes */
+height: auto;
+position: relative;
+color: black;
+padding: 1px;
+}
+
+/* general page style ends here */

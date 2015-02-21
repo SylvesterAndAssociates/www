@@ -1,0 +1,23 @@
+<!DOCTYPE html>
+<html>
+
+  {% include head.html %}
+
+  <input type="hidden" name="ul_val" id="ul_val" value="54" />
+  <body>
+    <div class="main">
+        <div class="inner">
+
+        {% include header.html %}
+
+        <div class="page-content">
+          <div class="wrapper">
+            {{ content }}
+          </div>
+        </div>
+
+    {% include footer.html %}
+
+  </body>
+
+</html>
