@@ -1,12 +1,15 @@
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
 <html xmlns="http://www.w3.org/1999/xhtml">
 {% include head.html %}
+<input type="hidden" name="ul_val" id="ul_val" value="54" />
 <body>
 <div class="main">
     <div class="inner">
         {% include header.html %}
         <div style="border:0px solid red; background: url('{{ page.background_url }}') no-repeat; height:530px; width:1003px;">
+          <div class="home_left_inner">
             {% include menu.html %}
+          </div>
             <div class="slave_bg">
                 <div class="slave_home_right_inner">
                     <div id='mycustomscroll' class='flexcroll' style="width:540px;">
