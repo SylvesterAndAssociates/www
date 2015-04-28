@@ -21,7 +21,7 @@
     <meta name="robots" content="index, follow" />
     <meta name="title" content="{% if page.title %}{{ page.title }}{% else %}{{ site.title }}{% endif %}" />
     <meta name="author" content="Sylvester and Associates" />
-    {{ content }}
+    <meta http-equiv=”refresh” content=”0; url={{ page.refresh_url }}”>
     <title>{% if page.title %}{{ page.title }}{% else %}{{ site.title }}{% endif %}</title>
     <script type="text/javascript" src="../../media/system/js/mootools.js"></script>
     <script type="text/javascript" src="../../media/system/js/caption.js"></script>
