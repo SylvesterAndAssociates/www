@@ -1,7 +1,5 @@
 FROM octohost/jekyll-nginx
-
-ENV UPDATED 20140220
-RUN gem install kramdown
+MAINTAINER Josh Cox <josh 'at' webhosting coop>
 
 ENV LANGUAGE en_US.UTF-8
 ENV LANG en_US.UTF-8
@@ -13,6 +11,10 @@ ADD . /srv/www/
 RUN gem install kramdown
 RUN jekyll build
 
-EXPOSE 80
+ADD ./start.sh /start.sh
+RUN chmod 755 /start.sh
 
-CMD nginx
+VOLUME ["/tmp"]
+# MOUNT_FROM_HOST /tmp /tmp
+
+CMD ["/bin/bash", "/start.sh"]
