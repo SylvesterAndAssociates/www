@@ -11,7 +11,9 @@ build: cprenderin builddocker cpoctoin beep
 
 site: cprenderin rundocker cpoctoin beep
 
-octo:
+octo: cpoctoin octopush
+
+octopush:
 	git push octo master
 
 cprenderin:
