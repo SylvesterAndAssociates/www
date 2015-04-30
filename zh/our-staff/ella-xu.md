@@ -4,7 +4,7 @@
     background_url: ../../templates/sylvester/images/background_img_11.jpg
 ---
 <div class="staff_img">
-  <img border="0" height="326" src="http://www.sylvester-associates.com/templates/sylvester/images/Ella Xu.jpg" width="218"/>
+  <img border="0" height="326" src="../../templates/sylvester/images/Ella Xu.jpg" width="218"/>
 </div>
 
 徐姝2002年毕业于东北林业大学和黑龙江大学，在交通工程与行政管理两项学科上拥有双学位。并于2013年前往美国纽约Fordham Law School进修LLM课程。

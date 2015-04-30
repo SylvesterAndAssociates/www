@@ -4,7 +4,7 @@
     background_url: ../../templates/sylvester/images/background_img_05.jpg
 ---
 <div class="staff_img">
-  <img border="0" height="326" src="http://www.sylvester-associates.com/templates/sylvester/images/Michael Sylvester.jpg" width="218"/>
+  <img border="0" height="326" src="../../templates/sylvester/images/Michael Sylvester.jpg" width="218"/>
 </div>
 
 从佛罗里达大学毕业后， Mr. Sylvester 进入了Rijksuniverseteit der Utrecht, The Netherlands 的法律系。作为一名Erasmus 奖学金学生，他率先学习比较法和国际法至Treaty of Maastrict 以及欧盟的形成。

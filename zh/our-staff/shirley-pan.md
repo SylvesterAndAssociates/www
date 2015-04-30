@@ -4,7 +4,7 @@
     background_url: ../../templates/sylvester/images/background_img_01.jpg
 ---
 <div class="staff_img">
-  <img border="0" height="326" src="http://www.sylvester-associates.com/templates/sylvester/images/Shirley Pan.jpg" width="218"/>
+  <img border="0" height="326" src="../../templates/sylvester/images/Shirley Pan.jpg" width="218"/>
 </div>
 
 1986年毕业于黑龙江大学汉语言文学专业，获学士学位，后毕业于中央财经大学金融系研究生班。曾在黑龙江省哈尔滨市的大型国企化工公司从事人事工作，担任团委书记；在北亚股份制上市公司广告分公司担任经理并兼任三个分公司的工会主席。

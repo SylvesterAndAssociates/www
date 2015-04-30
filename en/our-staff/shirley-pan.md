@@ -4,7 +4,7 @@
     background_url: ../../templates/sylvester/images/background_img_01.jpg
 ---
 <div class="staff_img">
-  <img border="0" height="326" src="http://www.sylvester-associates.com/templates/sylvester/images/Shirley Pan.jpg" width="218"/>
+  <img border="0" height="326" src="../../templates/sylvester/images/Shirley Pan.jpg" width="218"/>
 </div>
 
 After graduating from Heilongjiang University in 1986, Shirley became the Human Resources Administrator for the State-Owned Enterprise Heilongjiang Chemicals Raw Materials Group Corporation. While there she was the Secretary of the Communist Youth League and she still maintains her relationships there and with Heilongjiang Chemicals.

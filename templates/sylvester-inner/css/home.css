@@ -45,7 +45,7 @@ body {
 
 
 .inner{width:1003px; float:left;}
-.home_left_inner{width:403px;  float:left; background-color: #000224; background:url(http://www.sylvester-associates.com/templates/sylvester-inner/css/images/img1.jpg) no-repeat;}
+.home_left_inner{width:403px;  float:left; background-color: #000224; background:url(../../../templates/sylvester-inner/css/images/img1.jpg) no-repeat;}
 
 .slave_bg{ width:600px; height:530px;float:left;}
 

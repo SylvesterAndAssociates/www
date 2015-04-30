@@ -30,7 +30,7 @@ body {
 
 
 .inner{width:1003px; float:left;}
-.home_left_inner{width:403px;  float:left; background-color: #000224; background:url(http://www.sylvester-associates.com/templates/sylvester/css/images/img1.jpg) no-repeat;}
+.home_left_inner{width:403px;  float:left; background-color: #000224; background:url(../../../templates/sylvester/css/images/img1.jpg) no-repeat;}
 .home_right_inner{width:575px; height:500px; float:left;background:url(../images/bg.png) repeat-x #ffffff; padding:0px 5px 30px 20px; 	font-family:sans-serif; font-size:13px; color:#cbcbcb; text-align:justify; text-decoration:none; line-height:15px; font-weight:normal; }
 .inner_top{width:1003px; height:110px; float:left; padding-top:15px;} 
 

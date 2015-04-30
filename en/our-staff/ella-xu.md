@@ -4,7 +4,7 @@
     background_url: ../../templates/sylvester/images/background_img_11.jpg
 ---
 <div class="staff_img">
-  <img border="0" height="326" src="http://www.sylvester-associates.com/templates/sylvester/images/Ella Xu.jpg" width="218"/>
+  <img border="0" height="326" src="../../templates/sylvester/images/Ella Xu.jpg" width="218"/>
 </div>
 
 Ella earned two bachelor's degrees in communication and administrative management from Northeast Forest College and Hei Long Jiang University respectively in 2002. She further finished Fordham Law School's LLM advanced course in New York in the year 2013.

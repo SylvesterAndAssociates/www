@@ -4,7 +4,7 @@
     background_url: ../../templates/sylvester/images/background_img_05.jpg
 ---
 <div class="staff_img">
-  <img border="0" height="326" src="http://www.sylvester-associates.com/templates/sylvester/images/Michael Sylvester.jpg" width="218"/>
+  <img border="0" height="326" src="../../templates/sylvester/images/Michael Sylvester.jpg" width="218"/>
 </div>
 
 After graduating from the University of Florida, Mr. Sylvester attended Rijksuniverseteit der Utrecht, The Netherlands, Faculty of Law, where as an Erasmus Scholarship student he studied Comparative and International Law in the lead up to the Treaty of Maastrict and the formation of the European Union.
